@@ -1,0 +1,11 @@
+bert_score==0.3.13
+httpx==0.28.1
+matplotlib==3.10.3
+numpy==2.2.5
+openai==1.78.1
+Requests==2.32.3
+scikit_learn==1.6.1
+torch==2.7.0
+tqdm==4.67.1
+transformers==4.51.3
+huggingface-hub[hf_xet]==0.30.2
